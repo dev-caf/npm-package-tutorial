@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-tutorial-liu",
+  "version": "1.0.0",
+  "description": "Node JS Package Tutorial which makes simple sdk for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-caf/npm-package-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-caf/npm-package-tutorial/issues"
+  },
+  "homepage": "https://github.com/dev-caf/npm-package-tutorial#readme"
+}
